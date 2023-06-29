@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Ben&#39;s Footy Rants</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Ben&#39;s Footy Rants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 🅱ump</title>
+      <link>/post/2023/04/27/the-bump/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2023/04/27/the-bump/</guid>
+      <description>Bans for tackles and bumps are the talk of the town, causing outrage from fantasy football coaches and old bogans alike.
+I have created a Dataset of AFL Bans (DAB) for use in analysis.
+From Round 1 to Round 6 we have seen 18 players banned for offences ranging from bumps, strikes to tackles.
+The majority of bans coming from tackles and bumps, with a minority from strikes
+Clustering of midfielders, looking like strong correlation between number of tackles and potential to be banned for tackling.</description>
+    </item>
+    
+  </channel>
+</rss>
